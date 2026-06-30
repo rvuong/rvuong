@@ -30,7 +30,7 @@ that let a team grow. That's where my energy goes.
 
 ## Stack & interests
 
-Rust · PHP · Symfony · API Platform · Python · Docker · CI/CD ·
+Rust · PHP · Symfony · API Platform · Docker · CI/CD ·
 Green Software · responsible engineering
 
 ## Elsewhere
