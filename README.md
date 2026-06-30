@@ -9,6 +9,8 @@ that let a team grow. That's where my energy goes.
 
 ## What I'm building
 
+- **[AirPair](https://github.com/rvuong/airpair)** —
+  Real-time Pong across two phones. Lab project — AI tooling, carbon footprint tracking.
 - **[email-assistant](https://github.com/rvuong/email-assistant)** —
   A Rust daemon that turns an inbox into an action engine: send an
   email, trigger an API call. Built before agentic AI was a thing —
